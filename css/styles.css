@@ -1,3 +1,8 @@
-body{
+div{
+    width: 500px;
+    margin: auto;
+    padding: 5px;
     background-color: #ccc;
+    text-align: center;
 }
+
